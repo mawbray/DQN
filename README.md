@@ -19,4 +19,5 @@ the number of weight updates per epoch.
 ### Environment_file.py
 - contains definition of the dynamic bioprocess we want to dynamically optimise.
 
+![PNG_QL_structure.png]
 
